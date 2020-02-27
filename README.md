@@ -1,2 +1,3 @@
 # hello-world
-Setting up my first GitHub repository
+
+Hello world! I'm on my way to become a data scientist! (hopefully...)
